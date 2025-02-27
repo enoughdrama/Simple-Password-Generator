@@ -11,7 +11,7 @@
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/simple-password-generator.git
+   git clone https://github.com/enoughdrama/simple-password-generator.git
    ```
 2. Navigate into the project directory:
     ```bash

@@ -1,6 +1,6 @@
 # Simple Password Generator
 
-ℹ️ My first python project, don't judge it too harshly.
+ℹ️ My first python project.
 
 ## Supported Features
 - Uppercase letters
